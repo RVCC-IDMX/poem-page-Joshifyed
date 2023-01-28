@@ -1,0 +1,28 @@
+#jelly {
+    width: 250px;
+    height: 150px;
+}
+body {
+    background: linear-gradient(to right, #f12711, #f5af19);
+    font-family: Arial, sans-serif;
+  }
+  
+  #container {
+    display: flex;
+    align-items: center;
+  }
+  
+  #poem {
+    width: 50%;
+    padding: 10px;
+  }
+  
+  img {
+    width: 100px;
+    margin-left: auto;
+  }
+
+  
+  
+  
+  
